@@ -1,0 +1,7 @@
+[package]
+name = "plotge"
+version = "0.1.0"
+edition = "2021"
+authors = ["Dixaba"]
+
+[dependencies]
